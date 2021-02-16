@@ -18,10 +18,10 @@
 
 #include <FirebaseArduino.h>
 // Set these to run example.
-#define FIREBASE_HOST "smartagriculture-7b7e4.firebaseio.com"
-#define FIREBASE_AUTH "rW5MIlp5in8RXk8BpsGxuyAsR0gL3COn89SBR3mA"
-#define WIFI_SSID "Bishwas"
-#define WIFI_PASSWORD "Nepal123"
+#define FIREBASE_HOST "xxxxxxxxxxxxx.firebaseio.com"
+#define FIREBASE_AUTH "xxxxxxxxxxxxxxxxxxxxxxx"
+#define WIFI_SSID "xxxxxxxx"
+#define WIFI_PASSWORD "xxxxxxx"
 
 #include "DHT.h"        // including the library of DHT11 temperature and humidity sensor
 #define DHTTYPE DHT11   // DHT 11
