@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "366633500901",
+    "firebase_url": "https://agricultureapp-aaab8.firebaseio.com",
+    "project_id": "agricultureapp-aaab8",
+    "storage_bucket": "agricultureapp-aaab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366633500901:android:d6effc0984945421e0940c",
+        "android_client_info": {
+          "package_name": "com.irrigation.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366633500901-tu4lp241ei9oioqj5nvu3e3vd4e93kpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ8QRl0zRCHZzAFdGFFAykeTSHEjKQWk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366633500901-tu4lp241ei9oioqj5nvu3e3vd4e93kpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
